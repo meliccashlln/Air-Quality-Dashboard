@@ -1,5 +1,6 @@
-pearsonr
+scipy
 pandas
 numpy
 matplotlib
 seaborn
+streamlit
