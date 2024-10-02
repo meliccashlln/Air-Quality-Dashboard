@@ -6,7 +6,7 @@ import seaborn as sns
 from scipy.stats import pearsonr
 
 st.title("Air Quality Dashboard")
-df = pd.read_csv('main_data.csv')
+df = pd.read_csv('dashboard/main_data.csv')
 
 st.dataframe(df, height=400)
 
