@@ -11,6 +11,6 @@ Ini merupakan proyek untuk menyelesaikan course Dicoding "Belajar Analisis Data 
 
 Untuk menjalankan program ini, dapat dilakukan Setup Environment - Terminal :
 
-cd Dashboard
+```cd Dashboard
 pip install -r requirements.txt
-streamlit run dashboard.py
+streamlit run dashboard.py```
